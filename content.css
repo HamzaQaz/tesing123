@@ -1,0 +1,16 @@
+.content-container {
+  /* CONTENT CONTAINER */
+  width: 100%;
+  height: auto;
+}
+
+#content-container {
+  /* CONTENT IFRAME */
+  border: 0;
+  overflow: hidden;
+}
+
+#content-iframe {
+  width: 100%;
+  height: 100%;
+}
